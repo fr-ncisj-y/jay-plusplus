@@ -1,0 +1,14 @@
+:root {
+  --primaryBG: #222831;
+  --secondaryBG: #EEEEEE;
+  --primaryText: #FFFFFF;
+  --secondaryText: #31363F;
+  --tertiaryText:#A0153E;
+}
+*{
+  padding: 0;
+  margin: 0;
+  background-color: var(--secondaryBG);
+  color: var(--secondaryText);
+  font-family: Arial, Helvetica, sans-serif;
+}
