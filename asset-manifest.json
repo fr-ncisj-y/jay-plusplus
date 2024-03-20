@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.0fe58597.css",
-    "main.js": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.6a6046d2.js",
+    "main.css": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.d472623f.css",
+    "main.js": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.3c37c72e.js",
+    "static/media/bg.png": "/fr-ncisj-y.github.io/jay-plusplus/static/media/bg.8986e2b71e49dbc89a8c.png",
+    "static/media/profile.png": "/fr-ncisj-y.github.io/jay-plusplus/static/media/profile.88e429841e823afa4ea2.png",
     "index.html": "/fr-ncisj-y.github.io/jay-plusplus/index.html",
-    "main.0fe58597.css.map": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.0fe58597.css.map",
-    "main.6a6046d2.js.map": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.6a6046d2.js.map"
+    "main.d472623f.css.map": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.d472623f.css.map",
+    "main.3c37c72e.js.map": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.3c37c72e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fe58597.css",
-    "static/js/main.6a6046d2.js"
+    "static/css/main.d472623f.css",
+    "static/js/main.3c37c72e.js"
   ]
 }
