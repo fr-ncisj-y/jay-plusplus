@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.d472623f.css",
-    "main.js": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.c3ec7733.js",
-    "static/media/bg.png": "/fr-ncisj-y.github.io/jay-plusplus/static/media/bg.8986e2b71e49dbc89a8c.png",
-    "static/media/profile.png": "/fr-ncisj-y.github.io/jay-plusplus/static/media/profile.88e429841e823afa4ea2.png",
-    "index.html": "/fr-ncisj-y.github.io/jay-plusplus/index.html",
-    "main.d472623f.css.map": "/fr-ncisj-y.github.io/jay-plusplus/static/css/main.d472623f.css.map",
-    "main.c3ec7733.js.map": "/fr-ncisj-y.github.io/jay-plusplus/static/js/main.c3ec7733.js.map"
+    "main.css": "/jay-plusplus/static/css/main.379e6f69.css",
+    "main.js": "/jay-plusplus/static/js/main.edab26f0.js",
+    "static/media/bg.png": "/jay-plusplus/static/media/bg.8986e2b71e49dbc89a8c.png",
+    "static/media/profile.png": "/jay-plusplus/static/media/profile.88e429841e823afa4ea2.png",
+    "index.html": "/jay-plusplus/index.html",
+    "main.379e6f69.css.map": "/jay-plusplus/static/css/main.379e6f69.css.map",
+    "main.edab26f0.js.map": "/jay-plusplus/static/js/main.edab26f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d472623f.css",
-    "static/js/main.c3ec7733.js"
+    "static/css/main.379e6f69.css",
+    "static/js/main.edab26f0.js"
   ]
 }
