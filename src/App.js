@@ -20,8 +20,8 @@ function App() {
           </div>
           <div className="content">
             <Routes>
-            <Route path="fr-ncisj-y.github.io/jay-plusplus" element={<Navigate to="fr-ncisj-y.github.io/jay-plusplus/" replace={true} />} />
-              <Route path="fr-ncisj-y.github.io/jay-plusplus/" element={<Home />} />
+            <Route path="/" element={<Navigate to="fr-ncisj-y.github.io/jay-plusplus/" replace={true} />} />
+              <Route path="jay-plusplus/" element={<Home />} />
             </Routes>
           </div>
           <div className="socials">

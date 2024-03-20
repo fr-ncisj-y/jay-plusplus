@@ -64,3 +64,39 @@
 .profile{
     height: 100%;
 }
+.image-container{
+        
+ display: none;
+}
+.i-am{
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .container-image{
+        display: none;
+    }
+    .container-text{
+        width: 100%;
+    }
+    .text{
+        margin-inline-start: 0vw;
+    }
+    .content-container{
+        display: block;
+        /* overflow: scroll; */
+    }
+    .text .btn{
+        text-align: center;
+    }
+    .i-am1{
+        display: none;
+    }
+    .i-am{
+        display: inline;
+    }
+    .text .intro{
+        text-align: center;
+    }
+
+  }
